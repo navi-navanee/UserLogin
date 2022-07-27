@@ -1,0 +1,37 @@
+.navbar{
+    height: 65px;
+    background-color:rgb(235 239 240);
+    width: 100%;
+    box-shadow: 5px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.logouticn{
+font-size: 17px;
+margin-right: 17px;
+color: rgb(31, 78, 218);
+cursor: pointer;
+}
+.logouticn:hover{
+font-size: 18px;
+}
+
+.loginButton{
+    border-radius: 10px;
+    background-color: white;
+    color: blue;
+    border-width: 3px;
+    margin-right: 23px;
+    width: 112px;
+}
+.loginButton :hover{
+    background-color: blue;
+    color: white;
+}
+.LOGO{
+    font-size: 33px;
+    font-style: inherit;
+    font-family: fantasy;
+    margin-left: 20px;
+}
